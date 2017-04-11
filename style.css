@@ -1,0 +1,67 @@
+.body {
+  max-width: 800px;
+  min-width: 500px;
+  margin: auto;
+  padding: 0 10px;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  background-color: #f3f5f6;
+}
+
+.personal {
+  text-align: right;
+  padding: 0;
+}
+
+.edu {
+  display: flex;
+  justify-content: space-between;
+  margin: 0 auto;
+}
+
+.content {
+  text-align: justify;
+  padding: 0 auto;
+}
+
+.personal p {
+  margin: 10px 0;
+}
+
+.edu p {
+  margin: 0;
+}
+
+.list {
+  display: block;
+}
+
+h1 {
+  margin: 0;
+}
+
+h2 {
+  text-align: left;
+  margin: 10px auto;
+}
+
+h3 {
+  margin: 0;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+li {
+  margin: auto 0;
+}
+
+#intro {
+  margin: 0 auto;
+}
